@@ -19,11 +19,15 @@ This is a web-based application for managing and conducting voting processes. Th
 4. **JDBC Driver for Oracle**
    - Ensure that the Oracle JDBC driver (ojdbc8.jar) is included in your project's classpath.
 
-## Setup Instructions
+## Project Structure
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/voting-app.git
-   cd voting-app
+The Voting App project is structured as follows:
+
+- `src/main/java`: This directory contains the Java source code for Servlets and other backend logic of the application.
+- `src/main/webapp`: This directory contains the HTML, CSS, and JavaScript files for the frontend user interface.
+- `src/main/resources`: This directory typically contains configuration files such as `db.properties` for database connection details.
+
+The project structure is organized to separate backend and frontend code, following standard practices in web application development.
+
   
 
