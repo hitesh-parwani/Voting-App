@@ -25,7 +25,8 @@ The Voting App project is structured as follows:
 
 - `src/main/java`: This directory contains the Java source code for Servlets and other backend logic of the application.
 - `src/main/webapp`: This directory contains the HTML, CSS, and JavaScript files for the frontend user interface.
-~- `src/main/resources`: This directory typically contains configuration files such as `db.properties` for database connection details.~
+
+- ~`src/main/resources`: This directory typically contains configuration files such as `db.properties` for database connection details.~
 
 The project structure is organized to separate backend and frontend code, following standard practices in web application development.
 
